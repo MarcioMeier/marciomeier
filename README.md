@@ -22,6 +22,6 @@
 
 ## My Stats
 
-||||
-|---|---|---|
-|![Marcio's github stats](https://github-readme-stats.vercel.app/api?username=marciomeier&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dracula)|![Marcio's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomeier&layout=compact&hide_border=true&theme=dracula)|![Marcio's wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marciomeier&hide_border=true&layout=compact&theme=dracula&langs_count=5)
+![Marcio's github stats](https://github-readme-stats.vercel.app/api?username=marciomeier&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dracula)
+![Marcio's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomeier&layout=compact&hide_border=true&theme=dracula)
+![Marcio's wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marciomeier&hide_border=true&theme=dracula&langs_count=5)
