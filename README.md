@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Node.js-2E2F30?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/Serverless-2E2F30?logo=serverless" alt="Serverless logo" title="Serverless" height="25" />
 
-## My Stats
+### My Stats
 
 ![Marcio's github stats](https://github-readme-stats.vercel.app/api?username=marciomeier&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dracula)
 ![Marcio's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomeier&layout=compact&hide_border=true&theme=dracula)
