@@ -2,7 +2,7 @@
 
 💻 Software Engineer at [Groundbreaker](https://groundbreaker.co)<br>
 🎓 Sistemas Para Internet At SENAI<br>
-🌱 Currently learning Vue, React, TypeScript and TDD<br>
+🌱 Currently learning React and TypeScript<br>
 
 ### Connect with me:
 
